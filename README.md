@@ -1,4 +1,4 @@
-# 📚 CSC 510 SE Project  
+# 📚 CSC 510 Software Engineering Project  
 **Section:** 001  
 **Group:** 16  
 
