@@ -7,8 +7,7 @@
 - Rishitha Ramesh - rsramesh  
 - Rujuta Budke - rabudke  
 
-## WolfCafe – CSC326 Project 1a1  
-### Repo Layout  
+## Repo Layout  
 ```
 ├── README.md
 └── proj1/
