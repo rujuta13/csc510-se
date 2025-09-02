@@ -39,6 +39,3 @@ proj1/1a1.pdf
 
 </details>  
 
----
-
-➡️ For full details, open **`proj1/1a1.pdf`**.  
