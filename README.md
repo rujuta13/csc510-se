@@ -28,7 +28,7 @@
 
 Our submissions:  
 - **1a1.pdf** → Stakeholders, biases, prompt reflection, 10 detailed use cases.  
-- **1b1.pdf** → Expanded use cases (×3 with health & tax regs), LLM gap analysis (ChatGPT & Claude, zero-shot vs careful), reflection on differences, and usage cost report.  
+- **1b1.pdf** → Expanded use cases (×3 with health & tax regs), LLM gap analysis (ChatGPT & Gemini Pro, zero-shot vs careful), reflection on differences, and usage cost report.  
 
 </details>  
 
