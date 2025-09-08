@@ -21,22 +21,13 @@
 ```
 
 ---
-
 ## 📁 Directories  
 
 <details>
 <summary>📁 proj1/</summary>
 
-Our submission is in:  
-```
-proj1/1a1.pdf
-```
-
-### 📑 What’s Inside  
-- **Stakeholders** → Primary, secondary, and additional roles (LLM brainstorming).  
-- **Biases** → At least 5 examples of stakeholder conflicts (e.g., speed vs security).  
-- **Prompt Reflection** → Zero-shot vs careful prompting, with a comparison table.  
-- **Use Cases** → 10 detailed cases (Preconditions, Main Flow, Subflows, Alternatives).  
+Our submissions:  
+- **1a1.pdf** → Stakeholders, biases, prompt reflection, 10 detailed use cases.  
+- **1b1.pdf** → System design, compliance docs, guides, human flourishing, extra features.  
 
 </details>  
-
