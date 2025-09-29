@@ -34,6 +34,6 @@ Our submissions:
 - **1b1.pdf** → Expanded use cases (×3 with health & tax regs), LLM gap analysis (ChatGPT & Gemini Pro, zero-shot vs careful), reflection on differences, and usage cost report.
 - **1c1.pdf** → MVP use case filtering, redesigned flows (Preconditions, Main Flow, Subflows, Alternatives), and stakeholder reflection on what was excluded, Reflection document adn prompt history. 
 - **1d1.pdf** → Reflection on lessons learned, pain points with LLMs, and proposed tools to support requirements amplification and condensation for future projects. 
-
+- **1e1.pdf** → Poster 
 </details>  
 
